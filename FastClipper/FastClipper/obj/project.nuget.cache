@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6V9W2A9Kjgk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\stan0033\\source\\repos\\FastClipper\\FastClipper\\FastClipper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\stan0033\\.nuget\\packages\\microsoft.win32.systemevents\\9.0.9\\microsoft.win32.systemevents.9.0.9.nupkg.sha512",
+    "C:\\Users\\stan0033\\.nuget\\packages\\system.drawing.common\\9.0.9\\system.drawing.common.9.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
